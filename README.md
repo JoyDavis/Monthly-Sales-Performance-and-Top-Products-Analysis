@@ -1,6 +1,6 @@
 # Monthly Sales Performance and Top Products Analysis
 ### Project Description
-I assume the role of a data analyst tasked with analyzing the sales performance of a fictional retail business from January to May. My primary objective is to uncover trends, identify top-performing products, and provide actionable insights that drive business growth. I focus on monthly sales trends, product performance, and identifying key revenue drivers to inform strategic decisions.
+I assume the role of a data analyst, tasked with analyzing the sales performance of a fictional retail business from January to May 2019. My primary objective is to uncover trends, identify top-performing products, and provide actionable insights that drive business growth. I focus on monthly sales trends, product performance, and identifying key revenue drivers to inform strategic decisions.
 
 ### Through this analysis, I:
 - Evaluate the overall sales performance of the business from January to May.
